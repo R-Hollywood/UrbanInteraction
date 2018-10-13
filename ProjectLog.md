@@ -11,6 +11,21 @@ Date | Duration | Summary
 
 Date | Duration | Summary
 ------------ | ------------- | -------------
-24/09/2017 | 1 Hours | Met with Supervisor again. Decided to work with VR and a 360 degree camera to create a "peephole to another area"
+24/09/2017 | 1 Hour | Met with Supervisor again. Decided to work with VR and a 360 degree camera to create a "peephole to another area"
 26/09/2017 | 8 Hours | Set up Github repository, Reference Manager (Mendeley), downloaded pdflatex (MikeTex), created dissertation template, wrote status report and meeting minutes.
-30/09/2017 | 1 Hours | Started Reading Jan Gehl book.
+30/09/2017 | 1 Hour | Started Reading Jan Gehl book.
+
+## Week 3
+
+Date | Duration | Summary
+------------ | ------------- | -------------
+2/10/2017 | 3 Hours | Background Reading
+3/10/2017 | 4 Hours | Reading Jan Gehl book.
+
+## Week 4
+
+Date | Duration | Summary
+------------ | ------------- | -------------
+10/10/2017 | 1 Hour | Met Supervisor
+12/10/2017 | 2 Hours | Created List of ideas for where to put the VR/Camera
+13/10/2017 | 3 Hours | Background Reading.
