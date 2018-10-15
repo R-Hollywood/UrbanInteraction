@@ -29,3 +29,10 @@ Date | Duration | Summary
 10/10/2017 | 1 Hour | Met Supervisor
 12/10/2017 | 2 Hours | Created List of ideas for where to put the VR/Camera
 13/10/2017 | 3 Hours | Background Reading.
+14/10/2017 | 6 Hours | Learning Unity and Researching Streaming using Unity
+
+## Week 5
+
+Date | Duration | Summary
+------------ | ------------- | -------------
+15/10/2017 | 2 Hour | Started coding a basic stream from mobile phone camera to Unity.
