@@ -18,5 +18,5 @@ Discussed feasability of project. Set 3 tasks to be completed by next meeting.
 Received a Samsung Gear and 360 Camera.
 	-Try and set up a livestream from camera to VR
 
-## Week 5
+## Week 6
 No meeting. Email contact only.
