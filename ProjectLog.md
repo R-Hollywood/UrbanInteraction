@@ -37,3 +37,12 @@ Date | Duration | Summary
 ------------ | ------------- | -------------
 15/10/2018 | 2 Hours | Started coding a basic stream from mobile phone camera to Unity.
 16/10/2018 | 3 Hours | Abandoned mobile stream in favour of coding a webcam stream to Unity.
+
+
+## Week 6
+
+Date | Duration | Summary
+------------ | ------------- | -------------
+23/10/2018 | 3 Hours | Set Up Samsung Gear VR and connected it to Samsung 360.
+24/10/2018 | 5 Hours | Tried to find a work around for Samsung 360 not livestreaming
+27/10/2018 | 3 Hours | Looked for pre-existing 360 stream to try and stream with codex manipulation.
