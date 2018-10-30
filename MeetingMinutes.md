@@ -14,6 +14,9 @@ Discussed feasability of project. Set 3 tasks to be completed by next meeting.
 	-Create List of interesting places the Project could be situated
 	-Do more background reading on remote awareness and public displays
 	-Try and set up a livestream into a scene in Unity
-## Week 4
+## Week 5
 Received a Samsung Gear and 360 Camera.
 	-Try and set up a livestream from camera to VR
+
+## Week 5
+No meeting. Email contact only.
