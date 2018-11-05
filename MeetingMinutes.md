@@ -20,3 +20,6 @@ Received a Samsung Gear and 360 Camera.
 
 ## Week 6
 No meeting. Email contact only.
+
+## Week 7
+Discussed that camera did not support livestreaming. Changed scope to be to play a pre-recorded video on VR to act as a proof of concept for the streaming concept. Set task to create a 360 video player in Unity and have it working on Samsung Gear for next meeting, also discussed direction we could take the project as a study and how we could work to improve emmersion. Returned 360 camera.
