@@ -46,3 +46,16 @@ Date | Duration | Summary
 23/10/2018 | 3 Hours | Set Up Samsung Gear VR and connected it to Samsung 360.
 24/10/2018 | 5 Hours | Tried to find a work around for Samsung 360 not livestreaming
 27/10/2018 | 3 Hours | Looked for pre-existing 360 stream to try and stream with codex manipulation.
+
+## Week 7
+
+Date | Duration | Summary
+------------ | ------------- | -------------
+2/11/2018 | 2 Hours | Setting up Unity enviroment for Oculus based project.
+4/11/2018 | 7 Hours | Sourcing 360 video, implementing a 360 video player in Unity, building it, installing it and testing it
+
+## Week 8
+
+Date | Duration | Summary
+------------ | ------------- | -------------
+5/11/2018 | 2 Hours | Set the video to loop and try to add audio.
