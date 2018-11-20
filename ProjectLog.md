@@ -59,3 +59,16 @@ Date | Duration | Summary
 Date | Duration | Summary
 ------------ | ------------- | -------------
 5/11/2018 | 2 Hours | Set the video to loop and try to add audio.
+10/11/2018 | 5 Hours | Fixed the pause in the loop and fixed the audio. Started to experiment with 3d modelling elements
+
+## Week 9
+
+Date | Duration | Summary
+------------ | ------------- | -------------
+Nothing Due to deadlines
+
+## Week 10
+
+Date | Duration | Summary
+------------ | ------------- | -------------
+
