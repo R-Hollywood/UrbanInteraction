@@ -30,3 +30,19 @@ Discussed progress. Generic video without 3d elements almost complete sound need
 ## Week 9
 
 Short meeting. Recap of the week before, emphasis on importance of pushing through with the completion of the technical aspects before December.
+
+##Week 10
+
+Short meeting. Recap of the week before, emphasis on importance of pushing through with the completion of the technical aspects before December. Organised a Demo for the next week.
+
+##Week 11
+
+Demo. Discussed problem where the camera would randomly flip on the z-axis or move without the user moving their head. Suggested logging accelerometer values and testing the application on a different phone.
+
+##Week 12
+
+Discussed the accelerometer error. Discovered it was not a software or hardware error but was in fact due to users accidentally brushing against the touchpad on the side of the headset. Discussed applying for ethics approval due to the use of non standard hardware. Returned S7 Phone. Also discussed goals to be achieved over Christmas period:
+
+	Start the Introduction and Background sections of the Dissertation.
+	Write up a draft of the User Evaluation Questionnaire.
+	Add gaze tracking to the application.
