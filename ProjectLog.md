@@ -71,4 +71,27 @@ Nothing Due to deadlines
 
 Date | Duration | Summary
 ------------ | ------------- | -------------
+19/11/2018 | 8 Hours | Added raindrop effect in front of the waterfall and added ferns. Began water on camera effect
+20/11/2018 | 4 Hours | Finished adding water on camera effect but it did not appear in the VR. Also madde the terrain the ferns were generated on transparent.
+21/11/2018 | 2 Hours | Started 3d modelling decking
+
+
+
+## Week 11
+
+Date | Duration | Summary
+------------ | ------------- | -------------
+28/11/2018 | 2 Hours | Fixed problem where project wouldn't build by upgrading to newer Unity version. Also deleted assets that were not being used.
+29/11/2018 | 4 Hours | Added logging of FPS and accelerometer movements to try and pinpoint the cause of axis flipping problem.
+30/11/2018 | 4 Hours | Tried to fix flipping problem. Added script that only played water on camera effect when facing the waterfall. Also added variation to the sizes of the raindrops.
+
+## Week 12
+
+Date | Duration | Summary
+------------ | ------------- | -------------
+3/12/2018 | 3 Hours | Researched how to add textures in blender and how to curve terrain so that the ferns didn't appear to float when in the VR. 
+4/12/2018 | 6 Hours | Met supervisor briefly and recieved a samsung s7 phone to test that the flipping axis was not due to an error in my phones accelerometer/gyroscope. Discovered it was not due to this and the flipping problem was due to user error and not software/hardware issues (i.e. the user tapping the touchpad on the side of the headset)
+6/12/2018 | 4 Hours | UV Mapped and added texture to the decking in blender. Tried importing it to Unity but it lost its texture. Also added a windzone to the project making the ferns sway in the breeze
+
+
 
